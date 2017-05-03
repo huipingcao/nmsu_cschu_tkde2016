@@ -1,5 +1,5 @@
-This is the code and data repository for paper:
-Chuan Hu, Huiping Cao: Aspect-level Influence Discovery from Graphs, IEEE Transactions on Knowledge and Data Engineering (TKDE) vol.PP, no.99, pp.1-1 (March 2016). http://dx.doi. org/10.1109/TKDE.2016.2538223
+This is the code and data repository for the paper:
+Chuan Hu, Huiping Cao: Aspect-level Influence Discovery from Graphs, IEEE Transactions on Knowledge and Data Engineering (TKDE) vol.PP, no.99, pp.1-1 (March 2016). http://dx.doi.org/10.1109/TKDE.2016.2538223
 
 Command usage:
 java -cp infdetection.jar sampling.MainInfDetection 

@@ -3,6 +3,8 @@ Chuan Hu, Huiping Cao: Aspect-level Influence Discovery from Graphs, IEEE Transa
 
 Data link: ask for download link. Chuan Hu: chuanhu90@gmail.com
 
+Build project: ```ant```
+
 Command usage:
 java -cp infdetection.jar sampling.MainInfDetection 
 -model <model: oaim, laim or cim> 
@@ -20,6 +22,8 @@ java -cp infdetection.jar sampling.MainInfDetection
 -debug <y or n. debug on sampling process>
 -printThread <y or n. whether print thread running time details>
 -access <iterator or index>
+
+Before running the command, please create log folder and output folder by ```mkdir log; mkdir output```.
 
 Example shell files:
 1. cim_efficience.sh. run CIM model on Citeseerx data set

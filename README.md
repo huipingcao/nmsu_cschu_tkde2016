@@ -20,6 +20,5 @@ java -cp infdetection.jar sampling.MainInfDetection
 -access <iterator or index>
 
 Example shell files:
-1. cim_efficience.sh. run CIM model on Twitter5000 data set.
-2. dblp_laim.sh. run LAIM on DBLP data set.  
-3. dblp_oaim.sh. run OAIM on DBLP data set.
+1. cim_efficience.sh. run CIM model on Citeseerx data set
+2. twitter50000_oaim_parallel.sh. run OAIM model on Twitter50000 data set
